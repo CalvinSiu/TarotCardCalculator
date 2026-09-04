@@ -149,7 +149,3 @@ dead code for a while: a shadowing bug meant no birth date could ever produce it
 Card meanings adapted from
 [Daily Tarot Girl](https://daily-tarot-girl.com/tarot-card-meanings/list-of-tarot-card-meanings/).
 Card images are from the Rider–Waite–Smith deck, which is in the public domain.
-
-## License
-
-MIT
